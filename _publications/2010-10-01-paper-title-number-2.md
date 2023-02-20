@@ -1,7 +1,7 @@
 ---
 title: "电化学沉积BiOI修饰TiO2复合薄膜及其性能研究"
 collection: publications
-permalink: /publication/电化学沉积BiOI修饰TiO2复合薄膜及其性能研究/
+<!-- permalink: /publication/电化学沉积BiOI修饰TiO2复合薄膜及其性能研究/ -->
 <!-- excerpt: 'This paper is about the number 2. The number 3 is left for future work.' -->
 <!-- date: 2010-10-01 -->
 <!-- venue: 'Journal 1' -->
