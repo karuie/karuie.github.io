@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Data Analytics, University of Southampton, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-01 to present: Data Analyst
+  * Stable 
+ 	•	Collaborate with the market research team to collect, mine, clean, sort and format market data via manual collection, APIs, scriptings and machine learning algorithms.
+	•	Improve and optimize existing systems and infrastructures.
+	•	Complete data testing and analytics on commodity prices.
+	•	Expand Stable’s internal historical price data availability by researching outside of Stable’s index suite for suitable proxy data points.
+	•	Develop and implement backend infrastructures to support the APIs and databases.
+	•	Develop data tools for data visualisations, risk analytics, data management, deal optimisations and business intelligence dashboards.
+	•	Assist with other duties/projects assigned by management as needed.
+<!-- ![image](https://user-images.githubusercontent.com/72903701/221375621-8a6d0db3-1968-40db-b0dc-22cfb0cc6494.png)
+ -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python 
+* C
+* SQL
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
