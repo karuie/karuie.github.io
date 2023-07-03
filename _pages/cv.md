@@ -15,9 +15,17 @@ Education
 
 Work experience
 ======
-* 2021-01 to present: Data Analyst
+
+* Jul 2023 to present: Risk Investment Data Analyst
+  * St. James's Place
+ •	Analyze and interpret investment data to assess and mitigate risks associated with investment portfolios.
+ • Identify and evaluate potential risks, such as market volatility, credit risk, liquidity risk, and geopolitical factors. Apply statistical models and quantitative techniques to assess the probability and impact of these risks on investment performance.
+•
+
+
+* 2022 Jan to Jun 2023: Data Analyst
   * Stable 
- 	•	Collaborate with the market research team to collect, mine, clean, sort and format market data via manual collection, APIs, scriptings and machine learning algorithms.
+ •	Collaborate with the market research team to collect, mine, clean, sort and format market data via manual collection, APIs, scriptings and machine learning algorithms.
 	•	Improve and optimize existing systems and infrastructures.
 	•	Complete data testing and analytics on commodity prices.
 	•	Expand Stable’s internal historical price data availability by researching outside of Stable’s index suite for suitable proxy data points.
@@ -32,4 +40,4 @@ Skills
 * Python 
 * C
 * SQL
-
+* Power BI, Looker, Tableau, Dash
